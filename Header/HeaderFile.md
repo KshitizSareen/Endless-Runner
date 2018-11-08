@@ -1,1 +1,1 @@
-//This folder contains all the header files of the project Endless-Runner
+This folder contains all the header files of the project Endless-Runner
