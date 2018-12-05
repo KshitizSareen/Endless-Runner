@@ -7,4 +7,4 @@ The Source folder contains all the source Code of the project.
 The Header folder contains all the header files of the Project.
 
 Here is a preview of the game:
-https://github.com/KshitizSareen/Endless-Runner/blob/master/RunnerScreenshot.PNG
+![Alt text](https://github.com/KshitizSareen/Endless-Runner/blob/master/RunnerScreenshot.PNG?raw=true "Bridge Run")
